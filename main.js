@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let todos = [];
 let condition = true;
@@ -35,4 +36,3 @@ else {
 }
 console.log("Final ToDo List:");
 console.log(todos);
-// console.log(todos)
