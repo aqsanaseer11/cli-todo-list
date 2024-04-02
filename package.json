@@ -4,8 +4,7 @@
   "description": "managing your daily tasks has never been easier just use todo list",
   "main": "main.js",
   "type": "module",
-  "bin": {"aq04cli-todo-list":
-   "main.js"},
+  "bin":  "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

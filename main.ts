@@ -1,5 +1,7 @@
 #! /usr/bin/env node
 
+// ToDo list line1
+
 import inquirer from "inquirer"
 
 let todos = [];
@@ -21,6 +23,9 @@ todos.push(addtask.todo)
 condition = addtask.addmore
 console.log(todos)
 };
+
+// ToDo list line2
+
 let clearList = await inquirer.prompt(
     [
         {
