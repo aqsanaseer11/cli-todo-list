@@ -1,6 +1,6 @@
 {
   "name": "@aqsanaseer143/aq04cli-todo-list",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "managing your daily tasks has never been easier just use todo list",
   "main": "main.js",
   "type": "module",
